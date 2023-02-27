@@ -32,6 +32,8 @@ Please update your files accordingly.
 | HEIGHT | Changes the height of the video. | 100vh |
 | WIDTH | Changes the width of the video. | 100% |
 | POSTER | Changes the onclick image (only on onclick and thegame tags). Accepts URL. | download.jpg |
+| HEADLINE | Adds headline above the video | Optional |
+
 
 # Configuration example
 
